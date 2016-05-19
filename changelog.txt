@@ -1,4 +1,4 @@
-version 1.4 (2012/02/19) --------------------------------------------------------------
+version 1.5 (2016/02/19) --------------------------------------------------------------
 
   ENHANCEMENT
     * Auto-creates the cache folder with the correct permissions.
